@@ -1,6 +1,6 @@
 # All the News 2.0 — 2.7 million news articles and essays from 27 American publications
 
-## https://components.one/datasets/all-the-news-2-news-articles-dataset
+## <https://components.one/datasets/all-the-news-2-news-articles-dataset>
 
 ### Overview
 
